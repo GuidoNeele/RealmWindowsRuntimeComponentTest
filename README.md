@@ -1,5 +1,5 @@
 # RealmWindowsRuntimeComponentTest
-This repository is made to investigate a build error during a build of a Windows Universal Windows Runtime Component which includes Realm.
+This repository is made to investigate a build error during a build of a Windows Universal Windows Runtime Component which includes Realm. Related Stack Overflow question: https://stackoverflow.com/questions/49449263/universal-windows-10-16299-windows-runtime-component-build-error
 
 # Build error
 When building project the following error is displayed
